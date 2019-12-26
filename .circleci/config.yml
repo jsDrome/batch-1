@@ -23,7 +23,7 @@ jobs:
       - run:
           name: Build
           command: npm run build:client:prod
-unit_test:
+  unit_test:
     working_directory: ~/repo
     docker:
       - image: circleci/node:8-browsers

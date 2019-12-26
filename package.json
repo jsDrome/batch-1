@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
     "build:client:dev": "webpack --env=dev --config=webpack/webpack.config.js",
     "build:client:devserver": "webpack-dev-server --env=dev --config=webpack/webpack.config.js --open",
     "build:client:prod": "webpack --env=prod --config=webpack/webpack.config.js"
