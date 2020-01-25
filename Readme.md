@@ -1,12 +1,18 @@
 # Technologies
 
- - Git, Github
- - New project initiation using npm
- - Editorconfig
- - Eslint
- - Entry point file
- - Babel
- - Webpack
- - CI
- - Firebase
- - Readme
+Github
+New Node JS project
+Editorconfig and Eslint
+Gitignore
+React source code
+Babel Config
+Webpack
+Webpack Plugins
+Commit linting
+Building
+Circle CI
+Firebase
+Unit Testing
+Manual Testing
+Automation
+Backend
